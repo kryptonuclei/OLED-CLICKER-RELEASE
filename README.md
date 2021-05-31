@@ -3,6 +3,8 @@
 
 This creation is designed to both be a fidget item while also being able to serve a purpose. It is an electronic counter and a fidget clicker utilizing mechanical keyboard switches. The OLED used is 1.3in across, larger than the typical horizontal OLEDs. The processor is an ATMEGA32U4, from an arduino leonardo framework. The code was developed in visual studio using arduino libraries. It is powered by an 18650 that is charged via a USB C connector. The 5V rail is connected to a TP4056 to handle the charging. The 32U4 is also connected to the USB C for programming.
 
+There are some things that would be cool to integrate but have not been completed such as https://github.com/AlexIII/t-rex-duino and a selection of menus rather than the current mode toggles.
+
 # Pictures
 
 ![IMG_4665](https://user-images.githubusercontent.com/83693142/119259817-60d67500-bc13-11eb-968d-9f2689180bc3.JPG)
